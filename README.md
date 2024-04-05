@@ -5,8 +5,6 @@ This project aims to provide insights into the trends and characteristics of app
 
 The analysis is based on the exploration of various aspects of app data, including categories, user ratings, installs, and pricing. Through exploratory data analysis (EDA) and visualization, the project uncovers trends and patterns in the Play Store ecosystem.
 
-
-
 <p>
     <img src="https://img.shields.io/badge/Skill-Python-blue" alt="Python" />
     <img src="https://img.shields.io/badge/Skill-Pandas-yellow" alt="Pandas" />
