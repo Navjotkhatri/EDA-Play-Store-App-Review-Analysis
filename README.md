@@ -1,10 +1,31 @@
 # Play Store App Review Analysis
 
 This project aims to provide insights into the trends and characteristics of apps available on the Google Play Store by analyzing user reviews and app data.
-
 ## Project Overview
 
 The analysis is based on the exploration of various aspects of app data, including categories, user ratings, installs, and pricing. Through exploratory data analysis (EDA) and visualization, the project uncovers trends and patterns in the Play Store ecosystem.
+
+
+
+<p>
+    <img src="https://img.shields.io/badge/Skill-Python-blue" alt="Python" />
+    <img src="https://img.shields.io/badge/Skill-Pandas-yellow" alt="Pandas" />
+    <img src="https://img.shields.io/badge/Skill-Matplotlib-green" alt="Matplotlib" />
+    <img src="https://img.shields.io/badge/Skill-Seaborn-orange" alt="Seaborn" />
+    <img src="https://img.shields.io/badge/Skill-Scikit%20Learn-red" alt="Scikit Learn" />
+    <img src="https://img.shields.io/badge/Skill-Data%20Analysis-lightgrey" alt="Data Analysis" />
+    <img src="https://img.shields.io/badge/Skill-Data%20Visualization-blueviolet" alt="Data Visualization" />
+    <img src="https://img.shields.io/badge/Skill-Feature%20Engineering-yellowgreen" alt="Feature Engineering" />
+    <img src="https://img.shields.io/badge/Skill-Data%20Cleaning-lightblue" alt="Data Cleaning" />
+    <img src="https://img.shields.io/badge/Skill-Data%20Preprocessing-orange" alt="Data Preprocessing" />
+</p>
+
+<p>
+    <img src="https://img.shields.io/badge/Tool-Jupyter%20Notebook-red" alt="Jupyter Notebook" />
+    <img src="https://img.shields.io/badge/Tool-Google%20Colab-yellowgreen" alt="Google Colab" />
+    <img src="https://img.shields.io/badge/Tool-GitHub-lightgrey" alt="GitHub" />
+</p>
+
 
 ## Key Findings
 
@@ -42,3 +63,7 @@ The analysis is based on the exploration of various aspects of app data, includi
 ## Acknowledgments
 
 This project was completed as part of the Data Science Trainee program at AlmaBetter.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/navjot-khatri-5721a5179/)
+
+
